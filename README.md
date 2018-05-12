@@ -10,4 +10,4 @@ You have to use PHP dictionary `$_GET["playlist"]` to read the value of  `playli
 
 - **Student ID**: U1610019
 - **Student Name**: Alibek Beganaev
-- **Section Number**: your course section number
+- **Section Number**: 002
